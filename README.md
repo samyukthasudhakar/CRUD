@@ -2,6 +2,7 @@
 A  CRUD application created using nodeJS, express framework and mongoDB.
 
 In order to run the application in your system locally:
+
   -NodeJS and MongoDB need to be installed
   -Download/clone the files in the repository
   -Create a database in mongoose named EmployeeDB with a collection named 'employees'
